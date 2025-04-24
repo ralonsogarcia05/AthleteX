@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "608337943974",
+    "project_id": "athlete-x-sign-in",
+    "storage_bucket": "athlete-x-sign-in.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608337943974:android:da29e99aae6a3d12988367",
+        "android_client_info": {
+          "package_name": "com.example.newapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqGFdfp-eTKH-AWlThhcQpnNJ70xDch6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
